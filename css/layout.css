@@ -23,5 +23,9 @@
 }
 
 /* Posititoning Classes */
-
+.shadow{
+  float: left;
+  width: 66.666%;
+  
+}
 
