@@ -55,12 +55,15 @@
 
 #left{
   float: left;
+  width: 33.333%;
 }
 
 #middle{
   float: left;
+  width: 33.333%;
 }
 
 #right{
   float: left;
+  width: 33.333%;
 }
