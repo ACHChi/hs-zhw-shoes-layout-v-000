@@ -26,4 +26,12 @@
 #bshoes{
   float: left;
   width: 66.666%;
+  margin-right: 2%;
 }
+
+#dates{
+  float: left;
+  width: 33.333%;
+}
+
+
