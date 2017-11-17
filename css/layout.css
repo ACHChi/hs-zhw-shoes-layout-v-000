@@ -25,30 +25,30 @@
 /* Posititoning Classes */
 #bshoes{
   float: left;
-  width: 67.666%;
+  width: 66%;
   margin-right: 2%;
   margin-bottom: 2%;
 }
 
 #dates{
   float: left;
-  width: 30.333%;
+  width: 31.999%;
   margin-bottom: 2%;
 }
 
 #shoes1{
   float: left;
-  width: 32.833%;
+  width: 31.999%;
   margin-right: 2%;
 }
 
 #shoes2{
   float: left;
-  width: 32.833%;
+  width: 31.999%;
   margin-right: 2%;
 }
 
 #shoes3{
   float: left;
-  width: 30.333%;
+  width: 31.999%;
 }
